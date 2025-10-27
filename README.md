@@ -1,4 +1,4 @@
-Here’s a clean, reduced, and rearranged version of your README adapted for **Shema Arafati**:
+
 
 ---
 
